@@ -4,4 +4,4 @@ project(leetcode)
 set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
-add_executable(leetcode    time.cpp)
+add_executable(leetcode   erfen_search.cpp)
